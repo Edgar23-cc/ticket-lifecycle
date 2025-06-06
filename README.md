@@ -32,7 +32,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/7J8FeDZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  As Karen reported a problem that was saying that the mobile online was down and giving some errors each time she was trying to load it up. John got the ticket saw the severity of the issue and changed the priorty from normal to emergency because the it was affecting a business. John saw what kind of SLA Plan should've been so he switch it to SEV-A plan the reason was this issue has to be taken care of as soon as possible. He sent to Jane and her department as System Administrators. Jane taken a look at the ticket and to work on the ticket. She started coordinating with sys. admin. team to reslove the issue. A guy named Jerry from engineering system found that the issue was the failed load balancer it causing the problem and he corrected. Since the issue was corrected and mobile online was back up Jane closed the ticket.
 </p>
 <br />
 
