@@ -41,7 +41,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/uHt4l30.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Ken was trying to load up the adobe because need to see some document from his department but the reader was not working for him and his employees. Ken had to reported to IT deparment and John saw the ticket and assign it to himself to start working on the issue that Ken was having. John used the SEV-B to give himself more time so he downgraded the reader so Ken and his employees can use the application. In the meantime he research what was wrong with the app's newest version. John figured out what was wrong with the and re-upgraded the reader. Now that the reader is runing everyone on accounting can use their stuff again and John can closed the ticket.
 </p>
 <br />
 
