@@ -49,6 +49,6 @@ Ken was trying to load up the adobe because need to see some document from his d
 <img src="https://i.imgur.com/yPnruUm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Karen her team is having issues with the current tablets and they want a refresher with hardware. John saw the ticket that Karen needs a refresher and he knew that the plan of SLA was Sev-C which that can given him 8hrs to work on the ticket.
 </p>
 <br />
